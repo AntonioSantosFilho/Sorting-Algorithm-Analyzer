@@ -75,7 +75,8 @@ lib/
 └── widgets/
     ├── chart_view.dart        # Componente de visualização de gráficos
     ├── parameters_form.dart   # Formulário de parâmetros
-    └── results_tabs.dart      # Abas de resultados```
+    └── results_tabs.dart      # Abas de resultados
+```
 
 ALGORITMOS IMPLEMENTADOS
 -----------------------
