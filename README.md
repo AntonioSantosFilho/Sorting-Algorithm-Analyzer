@@ -63,7 +63,7 @@ COMO USAR
 
 ESTRUTURA DO PROJETO
 -------------------
-
+```
 lib/
 ├── main.dart                  # Ponto de entrada do aplicativo
 ├── models/
@@ -75,7 +75,7 @@ lib/
 └── widgets/
     ├── chart_view.dart        # Componente de visualização de gráficos
     ├── parameters_form.dart   # Formulário de parâmetros
-    └── results_tabs.dart      # Abas de resultados
+    └── results_tabs.dart      # Abas de resultados```
 
 ALGORITMOS IMPLEMENTADOS
 -----------------------
